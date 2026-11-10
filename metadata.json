@@ -1,0 +1,6 @@
+{
+  "name": "PrepEVC - Préparation N°1 aux EVC & PAE",
+  "description": "Plateforme de référence pour les Épreuves de Vérification des Connaissances (EVC) et la PAE en France, avec espace membre neumorphique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
